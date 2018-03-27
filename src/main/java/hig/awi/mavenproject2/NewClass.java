@@ -11,4 +11,7 @@ package hig.awi.mavenproject2;
  */
 public class NewClass {
     
+    
+    //System.out.println("Hej");
+    
 }
